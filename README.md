@@ -12,19 +12,19 @@ Prática deste curso
   - StopWatch
   
 ## Curso 1975 - Modelando Dominios Ricos
-* Prática deste curso
+Prática deste curso
   - PaymentContext
 
 ## Curso 7194 - Criando APIs Data Driven com ASP.NET Core 3 e EF Core 3 (100%)
-* Prática deste curso
+Prática deste curso
   - Shop
 
 ## Curso xxxx - Refatorando para testes de unidade (100%)
-* Prática deste curso
+Prática deste curso
   - UnitTests
   
 ## Curso 7196 - Todo App: API com ASP.NET Core, CQRS e EF Core (100%)
-* Prática deste curso
+Prática deste curso
   - TodoApi
 
 ## Artigos
