@@ -1,0 +1,13 @@
+C:\dev\MsdnExamples\Exception\ExceptionClass\obj\Debug\netcoreapp3.1\ExceptionClass.csprojAssemblyReference.cache
+C:\dev\MsdnExamples\Exception\ExceptionClass\obj\Debug\netcoreapp3.1\ExceptionClass.AssemblyInfoInputs.cache
+C:\dev\MsdnExamples\Exception\ExceptionClass\obj\Debug\netcoreapp3.1\ExceptionClass.AssemblyInfo.cs
+C:\dev\MsdnExamples\Exception\ExceptionClass\obj\Debug\netcoreapp3.1\ExceptionClass.csproj.CoreCompileInputs.cache
+C:\dev\MsdnExamples\Exception\ExceptionClass\bin\Debug\netcoreapp3.1\ExceptionClass.exe
+C:\dev\MsdnExamples\Exception\ExceptionClass\bin\Debug\netcoreapp3.1\ExceptionClass.deps.json
+C:\dev\MsdnExamples\Exception\ExceptionClass\bin\Debug\netcoreapp3.1\ExceptionClass.runtimeconfig.json
+C:\dev\MsdnExamples\Exception\ExceptionClass\bin\Debug\netcoreapp3.1\ExceptionClass.runtimeconfig.dev.json
+C:\dev\MsdnExamples\Exception\ExceptionClass\bin\Debug\netcoreapp3.1\ExceptionClass.dll
+C:\dev\MsdnExamples\Exception\ExceptionClass\bin\Debug\netcoreapp3.1\ExceptionClass.pdb
+C:\dev\MsdnExamples\Exception\ExceptionClass\obj\Debug\netcoreapp3.1\ExceptionClass.dll
+C:\dev\MsdnExamples\Exception\ExceptionClass\obj\Debug\netcoreapp3.1\ExceptionClass.pdb
+C:\dev\MsdnExamples\Exception\ExceptionClass\obj\Debug\netcoreapp3.1\ExceptionClass.genruntimeconfig.cache

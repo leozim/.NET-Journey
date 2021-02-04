@@ -1,0 +1,16 @@
+C:\dev\HtmlEditor\bin\Debug\net5.0\HtmlEditor.exe
+C:\dev\HtmlEditor\bin\Debug\net5.0\HtmlEditor.deps.json
+C:\dev\HtmlEditor\bin\Debug\net5.0\HtmlEditor.runtimeconfig.json
+C:\dev\HtmlEditor\bin\Debug\net5.0\HtmlEditor.runtimeconfig.dev.json
+C:\dev\HtmlEditor\bin\Debug\net5.0\HtmlEditor.dll
+C:\dev\HtmlEditor\bin\Debug\net5.0\ref\HtmlEditor.dll
+C:\dev\HtmlEditor\bin\Debug\net5.0\HtmlEditor.pdb
+C:\dev\HtmlEditor\obj\Debug\net5.0\HtmlEditor.csprojAssemblyReference.cache
+C:\dev\HtmlEditor\obj\Debug\net5.0\HtmlEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\HtmlEditor\obj\Debug\net5.0\HtmlEditor.AssemblyInfoInputs.cache
+C:\dev\HtmlEditor\obj\Debug\net5.0\HtmlEditor.AssemblyInfo.cs
+C:\dev\HtmlEditor\obj\Debug\net5.0\HtmlEditor.csproj.CoreCompileInputs.cache
+C:\dev\HtmlEditor\obj\Debug\net5.0\HtmlEditor.dll
+C:\dev\HtmlEditor\obj\Debug\net5.0\ref\HtmlEditor.dll
+C:\dev\HtmlEditor\obj\Debug\net5.0\HtmlEditor.pdb
+C:\dev\HtmlEditor\obj\Debug\net5.0\HtmlEditor.genruntimeconfig.cache

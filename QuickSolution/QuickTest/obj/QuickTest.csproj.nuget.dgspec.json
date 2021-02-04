@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\dev\\QuickSolution\\QuickTest\\QuickTest.csproj": {}
+  },
+  "projects": {
+    "C:\\dev\\QuickSolution\\QuickDate\\QuickDate.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\dev\\QuickSolution\\QuickDate\\QuickDate.csproj",
+        "projectName": "QuickDate",
+        "projectPath": "C:\\dev\\QuickSolution\\QuickDate\\QuickDate.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\dev\\QuickSolution\\QuickTest\\QuickTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\QuickSolution\\QuickTest\\QuickTest.csproj",
+        "projectName": "QuickTest",
+        "projectPath": "C:\\dev\\QuickSolution\\QuickTest\\QuickTest.csproj",
+        "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\QuickSolution\\QuickTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\dev\\QuickSolution\\QuickDate\\QuickDate.csproj": {
+                "projectPath": "C:\\dev\\QuickSolution\\QuickDate\\QuickDate.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+C:\dev\QuickSolution\QuickDate\obj\Debug\QuickDate.csprojAssemblyReference.cache
+C:\dev\QuickSolution\QuickDate\obj\Debug\QuickDate.csproj.CoreCompileInputs.cache
+C:\dev\QuickSolution\QuickDate\bin\Debug\QuickDate.exe.config
+C:\dev\QuickSolution\QuickDate\bin\Debug\QuickDate.exe
+C:\dev\QuickSolution\QuickDate\bin\Debug\QuickDate.pdb
+C:\dev\QuickSolution\QuickDate\obj\Debug\QuickDate.exe
+C:\dev\QuickSolution\QuickDate\obj\Debug\QuickDate.pdb
