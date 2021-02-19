@@ -18,7 +18,8 @@ namespace Calculator
             Console.WriteLine("3 - Multiplicação");
             Console.WriteLine("4 - Divisião");
             Console.WriteLine("5 - Sair");
-	    //adicionando comentário para merge
+	        
+            //adicionando comentario para o merge
 
             Console.WriteLine("----------------");
             Console.WriteLine("Selecione uma opção");
@@ -35,6 +36,10 @@ namespace Calculator
                         break;
                 case 4: Divisao();
                         break;
+                
+                
+                
+                
                 case 5: System.Environment.Exit(0);
                         break;
                 default: Menu();
@@ -49,6 +54,9 @@ namespace Calculator
 
             float valor1 = float.Parse(Console.ReadLine()); //Console.ReadLine recebe uma String
             float valor2 = float.Parse(Console.ReadLine());
+            
+            
+            
             // Console.WriteLine("");//pular linha
 
             float resultado = valor1 + valor2;
@@ -66,6 +74,9 @@ namespace Calculator
             float valor2 = float.Parse(Console.ReadLine());//Parse serve para converter texto ao tipo desejado
             
             float resultado = valor1 - valor2;
+            
+            
+            
 
             Console.WriteLine("");
             Console.WriteLine("A subtração da soma eh: " + resultado);
