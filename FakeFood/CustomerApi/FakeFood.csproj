@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>a8715e56-d5fb-444d-99d0-6c31b84037d3</UserSecretsId>
+    <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Domain\CustomerContext\Controller" />
+    <Folder Include="Domain\CustomerContext\Handlers\" />
+    <Folder Include="Domain\CustomerContext\Queries\" />
+    <Folder Include="Tests\" />
+  </ItemGroup>
+
+
+</Project>

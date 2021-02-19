@@ -18,6 +18,7 @@ namespace Calculator
             Console.WriteLine("3 - Multiplicação");
             Console.WriteLine("4 - Divisião");
             Console.WriteLine("5 - Sair");
+	    //adicionando comentário para commit
 
             Console.WriteLine("----------------");
             Console.WriteLine("Selecione uma opção");
