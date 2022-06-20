@@ -1,5 +1,0 @@
-C:\dev\PaymentContext\PaymentContext.Tests\obj\Debug\net5.0\PaymentContext.Tests.csprojAssemblyReference.cache
-C:\dev\PaymentContext\PaymentContext.Tests\obj\Debug\net5.0\PaymentContext.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\dev\PaymentContext\PaymentContext.Tests\obj\Debug\net5.0\PaymentContext.Tests.AssemblyInfoInputs.cache
-C:\dev\PaymentContext\PaymentContext.Tests\obj\Debug\net5.0\PaymentContext.Tests.AssemblyInfo.cs
-C:\dev\PaymentContext\PaymentContext.Tests\obj\Debug\net5.0\PaymentContext.Tests.csproj.CoreCompileInputs.cache

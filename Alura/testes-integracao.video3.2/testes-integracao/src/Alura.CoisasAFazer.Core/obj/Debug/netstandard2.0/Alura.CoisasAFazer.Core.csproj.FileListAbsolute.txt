@@ -1,9 +1,0 @@
-C:\dev\Dotnet-Journey\Alura\testes-integracao.video3.2\testes-integracao\src\Alura.CoisasAFazer.Core\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Core.deps.json
-C:\dev\Dotnet-Journey\Alura\testes-integracao.video3.2\testes-integracao\src\Alura.CoisasAFazer.Core\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Core.dll
-C:\dev\Dotnet-Journey\Alura\testes-integracao.video3.2\testes-integracao\src\Alura.CoisasAFazer.Core\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Core.pdb
-C:\dev\Dotnet-Journey\Alura\testes-integracao.video3.2\testes-integracao\src\Alura.CoisasAFazer.Core\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Core.csprojAssemblyReference.cache
-C:\dev\Dotnet-Journey\Alura\testes-integracao.video3.2\testes-integracao\src\Alura.CoisasAFazer.Core\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Core.AssemblyInfoInputs.cache
-C:\dev\Dotnet-Journey\Alura\testes-integracao.video3.2\testes-integracao\src\Alura.CoisasAFazer.Core\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Core.AssemblyInfo.cs
-C:\dev\Dotnet-Journey\Alura\testes-integracao.video3.2\testes-integracao\src\Alura.CoisasAFazer.Core\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Core.csproj.CoreCompileInputs.cache
-C:\dev\Dotnet-Journey\Alura\testes-integracao.video3.2\testes-integracao\src\Alura.CoisasAFazer.Core\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Core.dll
-C:\dev\Dotnet-Journey\Alura\testes-integracao.video3.2\testes-integracao\src\Alura.CoisasAFazer.Core\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Core.pdb
