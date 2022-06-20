@@ -1,0 +1,22 @@
+Instalar Dapper
+	dotnet add package Dapper ou dotnet package Dapper --version 2.0.90
+
+Para cada tabela no Banco de Dados transforma em uma classe
+
+1 - Criar classe Category com os campos
+	Guid Id
+	string Title
+
+2 - fazer Query com o Dapper utilizando um Alias do SQL
+
+3 - Existe um ataque chamado Sql Injection
+
+4 - Fazer um Insert para Category
+	
+	string	Url
+	string	Summary
+	Guid	Order
+	string Description
+	boolean	Featured
+
+5 - Update
